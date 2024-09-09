@@ -1,5 +1,16 @@
 Flask
 Flask-SQLAlchemy
-Flask-Migrate
-Flask-Bcrypt  # Removed version specification (latest will be installed)
-Flask-Login
+Flask_Bcrypt
+Flask_login
+Flask-WTF
+WTForms
+Flask-Mail
+Flask_Migrate
+SQLAlchemy
+pandas
+numpy
+scikit-learn==1.0.2
+joblib
+schedule
+geopy
+email_validator
